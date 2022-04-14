@@ -1,4 +1,4 @@
-console.log("hello");
+//console.log("hello");
 //1
 // //Follow this steps:
 // Init Git in project
